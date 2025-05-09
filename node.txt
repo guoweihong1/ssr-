@@ -1,1 +1,2 @@
-
+trojan://5ca4f73f-5c04-47fe-8bf6-7a29e0d01c5b@v01.gutingting.com:30006?allowInsecure=1&peer=v2hgc02.fuqiangren.com&tfo=1#%5BHk%5D%20%E9%A6%99%E6%B8%AF12
+trojan://8482e9fe-eef2-41ea-8675-c5fcc8215d8c@v01.gutingting.com:30017?allowInsecure=1&peer=v2hgc01.fuqiangren.com&tfo=1#hk%E9%A6%99%E6%B8%AF4
