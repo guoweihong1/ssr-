@@ -2,3 +2,5 @@ trojan://5ca4f73f-5c04-47fe-8bf6-7a29e0d01c5b@v01.gutingting.com:30006?allowInse
 trojan://8482e9fe-eef2-41ea-8675-c5fcc8215d8c@v01.gutingting.com:30017?allowInsecure=1&peer=v2hgc01.fuqiangren.com&tfo=1#hk%E9%A6%99%E6%B8%AF4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRTl1TDVmUjN5Ujk@aexgzbgp01.00117163.xyz:14091?plugin=obfs-local;obfs=http;obfs-host=252e7328b3.iqiyi.com;obfs-uri=/#%E5%BE%AE%E4%BF%A1%E5%8A%A0%EF%BC%9Avipa668vipa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRTl1TDVmUjN5Ujk@aexgzbgp01.00117163.xyz:14092?plugin=obfs-local;obfs=http;obfs-host=252e7328b3.iqiyi.com;obfs-uri=/#%E7%BB%AD%E8%B4%B9%E6%B7%BB%E5%8A%A0%E5%BE%AE%E4%BF%A1
+trojan://5ca4f73f-5c04-47fe-8bf6-7a29e0d01c5b@v01.gutingting.com:30056?allowInsecure=1&peer=v1kr01.fuqiangren.com&tfo=1#%E9%9F%A9%E5%9B%BDkr12
+trojan://5ca4f73f-5c04-47fe-8bf6-7a29e0d01c5b@v02.gutingting.com:30057?allowInsecure=1&peer=v1kr02.fuqiangren.com&tfo=1#%5B%20kr1%20%5D%20%E9%9F%A9%E5%9B%BD%2012
